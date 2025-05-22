@@ -23,6 +23,7 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E42525?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![p5.js](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=p5dotjs&logoColor=white)
 
 ---
 
