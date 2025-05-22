@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joona Ansamaa 👋
+# 👋 Hi, I'm Joona Ansamaa
 
 🎓 I'm a third-year Industrial Design student @ [LAB University of Applied Sciences](https://lab.fi/en), I am passionate about product design, 3D printing, and making design **visually stunning** yet **easy to recycle**.
 
@@ -6,13 +6,13 @@
 
 ---
 
-## 🌐 Portfolio 🌐
+## 🌐 Portfolio
 
 [![Portfolio](https://img.shields.io/badge/ansamaajoona.fi/portfolio-191919?style=for-the-badge&logo=linkedin&logoColor=white)](https://ansamaajoona.fi)
 
 ---
 
-## 💼 What I Do 💼
+## 💼 What I Do
 
 - 🧩 Industrial design with a focus on easy assembly, disassembly & UX
 - 🔩 3D CAD modeling
@@ -22,7 +22,7 @@
 
 ---
 
-## 🧰 My Toolbox 🧰
+## 🧰 My Toolbox
 
 ![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=Figma&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FAA21B?style=for-the-badge&logo=autodesk&logoColor=white)
@@ -37,7 +37,7 @@
 
 ---
 
-## 📫 Get in Touch 📫
+## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joona-ansamaa-00750a1b8/)
 [![FinnishDesigners](https://img.shields.io/badge/FinnishDesigners-FFFFFF?style=for-the-badge)](https://finnishdesigners.fi/portfolio/joona-ansamaa/)
