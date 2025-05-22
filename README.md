@@ -6,6 +6,12 @@
 
 ---
 
+## 💼 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/ansamaajoona.fi/portfolio-191919?style=for-the-badge&logo=linkedin&logoColor=white)](https://ansamaajoona.fi)
+
+---
+
 ## 💼 What I Do
 
 - 🧩 Industrial design with a focus on easy assembly, disassembly & UX
