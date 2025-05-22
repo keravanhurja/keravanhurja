@@ -27,6 +27,7 @@
 ![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=Figma&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FAA21B?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E42525?style=for-the-badge&logo=solidworks&logoColor=white)
+![Rhinoceros](https://img.shields.io/badge/Rhinoceros-000000?style=for-the-badge&logo=rhinoceros&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
