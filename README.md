@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Joona Ansamaa
 
---
-
 🎓 I'm a third-year Industrial Design student @ [LAB University of Applied Sciences](https://lab.fi/en), passionate about product design, 3D printing, and making design **visually stunning** yet **easy to recycle**.
 
 🛠️ I run a small business offering **design and 3D printing services** — blending creativity with technical precision.
@@ -31,17 +29,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Optional: use shields/stats tools -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
-
----
-
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+
 📧 mail@ansamaajoona.fi
 
 ---
