@@ -33,7 +33,7 @@
 ![Java](https://img.shields.io/badge/Java-E21D23?style=for-the-badge&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![processing.js](https://img.shields.io/badge/processing.js-00008B?style=for-the-badge&logo=processingfoundation&logoColor=white)
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
 ![Gsap](https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logoColor=white)
