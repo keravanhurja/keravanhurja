@@ -31,6 +31,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joona-ansamaa-00750a1b8/)
 [![FinnishDesigners](https://img.shields.io/badge/FinnishDesigners-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://finnishdesigners.fi/portfolio/joona-ansamaa/)
+[![AnsamaaJoona.fi](https://img.shields.io/badge/ansamaajoona.fi-191919?style=for-the-badge&logo=linkedin&logoColor=white)](https://ansamaajoona.fi/contact.html)
 
 📧 mail@ansamaajoona.fi
 
