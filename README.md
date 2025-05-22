@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Joona Ansamaa
 
+--
+
 🎓 I'm a third-year Industrial Design student @ [LAB University of Applied Sciences](https://lab.fi/en), passionate about product design, 3D printing, and making design **visually stunning** yet **easy to recycle**.
 
 🛠️ I run a small business offering **design and 3D printing services** — blending creativity with technical precision.
@@ -9,7 +11,10 @@
 ## 💼 What I Do
 
 - 🧩 Industrial design with a focus on easy assembly, disassembly & UX
+<<<<<<< HEAD
 - 🔩 3D CAD modeling (SolidWorks, Fusion 360, Rhino7 and 8, Shapr3d)
+=======
+- 🔩 3D CAD modeling (SolidWorks, Fusion 360, Rhino7,8, )
 - 🧪 Material-savvy product development (Plastics, Polyamide CF, Steel, Aluminium, Wood)
 - 📦 Sustainable packaging and circular design
 - 👷‍♂️ Hands-on experience in construction, security, and sales
