@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joona Ansamaa
 
-🎓 I'm a third-year Industrial Design student @ [LAB University of Applied Sciences](https://lab.fi/en), passionate about product design, 3D printing, and making design **visually stunning** yet **easy to recycle**.
+🎓 I'm a third-year Industrial Design student @ [LAB University of Applied Sciences](https://lab.fi/en), I am passionate about product design, 3D printing, and making design **visually stunning** yet **easy to recycle**.
 
 🛠️ I run a small business offering **design and 3D printing services** — blending creativity with technical precision.
 
@@ -9,8 +9,8 @@
 ## 💼 What I Do
 
 - 🧩 Industrial design with a focus on easy assembly, disassembly & UX
-- 🔩 3D CAD modeling (SolidWorks, Fusion 360, Rhino7 and 8, Shapr3d)
-- 🧪 Material-savvy product development (Plastics, Polyamide CF, Steel, Aluminium, Wood)
+- 🔩 3D CAD modeling
+- 🧪 Material-savvy product development
 - 📦 Sustainable packaging and circular design
 - 👷‍♂️ Hands-on experience in construction, security, and sales
 
@@ -28,7 +28,7 @@
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joona-ansamaa-00750a1b8/)
 
 📧 mail@ansamaajoona.fi
 
