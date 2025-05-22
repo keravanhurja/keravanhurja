@@ -9,9 +9,7 @@
 ## 💼 What I Do
 
 - 🧩 Industrial design with a focus on easy assembly, disassembly & UX
-<<<<<<< HEAD
 - 🔩 3D CAD modeling (SolidWorks, Fusion 360, Rhino7 and 8, Shapr3d)
-=======
 - 🔩 3D CAD modeling (SolidWorks, Fusion 360, Rhino7,8, )
 - 🧪 Material-savvy product development (Plastics, Polyamide CF, Steel, Aluminium, Wood)
 - 📦 Sustainable packaging and circular design
