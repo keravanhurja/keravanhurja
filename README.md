@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joona Ansamaa
 
-🎓 I'm a third-year Industrial Design student @ [LAB University of Applied Sciences](https://lab.fi/en), I am passionate about web development, product design, 3D printing, and making design **visually stunning** yet **easy to recycle**.
+🎓 I'm a third-year Industrial Design student @ [LAB University of Applied Sciences](https://lab.fi/en), I am passionate about web development, product design, 3D-printing, and making design **visually stunning** yet **easy to recycle**.
 
 🛠️ I run a small business offering **design and 3D printing services** — blending creativity with technical precision.
 
@@ -15,7 +15,8 @@
 ## 💼 What I Do
 
 - 🧩 Industrial design with a focus on easy assembly, disassembly & UX
-- 🔩 3D CAD modeling
+- ⌨️ Front-end web development
+- 🔩 CAD modeling
 - 🧪 Material-savvy product development
 - 📦 Sustainable packaging and circular design
 - 👷‍♂️ Hands-on experience in construction, security, and sales
